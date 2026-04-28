@@ -9,18 +9,11 @@ name:
   pronunciation: ""
   pronouns: "he/him"
 postnominals:
-  - "PhD"
-  - "MIEEE"
+  - "Студент"
 status:
   icon: "🌟"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+role: "НКАбд-04-25"
+bio: "Являюсь студенткой факультета физико-математических и естественных наук, Российского университета Дружбы Народов. Активно принимаю участие в различных мероприятиях на базе нашего вуза."
 affiliations:
   - name: "Meta AI"
     url: "https://ai.meta.com/"
