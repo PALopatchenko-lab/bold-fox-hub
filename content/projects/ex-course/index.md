@@ -18,7 +18,7 @@ links:
 # === ВИЗУАЛЬНЫЕ ЭЛЕМЕНТЫ ===
 
 cover:
-  image: "assets/media/linux-certificate.png"
+  image: "/uploads/linux-certificate.png"
   alt: "Сертификат Stepik по курсу Введение в Linux на имя Полины Лопатченко"
   caption: "Официальный сертификат Stepik"
 
@@ -110,7 +110,7 @@ weight: 5
 
 > 🔗 [Сертификат на Stepik](https://stepik.org/cert/3247587)
 
-![Сертификат](assets/media/linux-certificate.png)  
+![Сертификат](/uploads/linux-certificate.png)  
 
 ## Как эти знания помогают сейчас
 
