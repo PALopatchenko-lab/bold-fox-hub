@@ -110,7 +110,9 @@ weight: 5
 
 > 🔗 [Сертификат на Stepik](https://stepik.org/cert/3247587)
 
-![Сертификат](/uploads/linux-certificate.png)  
+![Сертификат](/uploads/linux-certificate.png)
+  
+![Использование команды wc](image/3/34.png)
 
 ## Как эти знания помогают сейчас
 
